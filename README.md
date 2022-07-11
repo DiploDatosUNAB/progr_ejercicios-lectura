@@ -29,8 +29,14 @@ Ordenando el repositorio
 3.  Hacé un *commit* con los cambios que hiciste.
     Acordate de agregar los archivos cambiados y poner un mensaje descriptivo.
 
+4.  Hacé un *push* desde tu máquina.
+    Asegurate de que los cambios se vean reflejados en el repositorio de GitHub.
+
 ## Ejercicio 3
 
 Leyendo los datos.
 
-Abrí el archivo `bicicletas.Rmd` y modificalo para que lea los datos.
+1.  Abrí el archivo `bicicletas.Rmd` y modificalo para que lea los datos. Seguí las instrucciones que hay en los comentarios.
+2.  *Kniteá* el archivo con el botón del ovillo azul que dice Knit.
+3.  Si no te da error y obtenés una salida html, hacé un nuevo commit con esos cambios con un mensaje apropiado.
+4.  Hacé un push nuevamente y fijate que el resultado esté en el repositorio de GitHub.
