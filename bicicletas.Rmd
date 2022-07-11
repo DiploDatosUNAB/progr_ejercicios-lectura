@@ -1,0 +1,40 @@
+---
+title: "Lectura de datos"
+author: "<tu nombre>"
+date: "2022-07-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Agregá acá los paquetes que necesitás para leer los datos. 
+
+```
+
+
+
+# Lectura de datos
+
+Primero leo los datos en csv. 
+
+```{r}
+# Completá acá el código para leer los datos bicis_muestra.csv
+# en una variable que se llame bicicletas_csv
+
+bicicletas_csv <- 
+
+```
+
+
+Ahora leo los datos en xlsx
+
+```{r}
+# Completá acá el código para leer los datos bicis_muestra.xlsx
+# en una variable que se llame bicicletas_excel
+
+bicicletas_excel <-
+
+```
+
+
